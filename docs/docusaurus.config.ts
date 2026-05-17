@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const organizationName = 'tspyder7';
-const projectName = 'docs-poc'
+const projectName = 'docs-poc-app'
 
 const config: Config = {
   title: 'Docs POC',
